@@ -1,2 +1,2 @@
-# python-pandas-examples
+# Python Pandas Examples
 
