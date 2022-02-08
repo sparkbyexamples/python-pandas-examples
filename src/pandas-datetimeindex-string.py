@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Thu Feb  3 23:13:04 2022
-
-@author: admin
+@author: sparkbyexamples.com
 """
 
 # Create Pandas DataFrame.
