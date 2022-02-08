@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @author: sparkbyexamples.com
+URL: https://sparkbyexamples.com/pandas/convert-pandas-datetimeindex-to-string/
 """
 
 # Create Pandas DataFrame.
