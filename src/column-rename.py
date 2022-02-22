@@ -1,5 +1,7 @@
 """
 @author: sparkbyexamples.com
+For complete example refer to 
+https://sparkbyexamples.com/pandas/pandas-rename-column-with-example
 
 """
 
