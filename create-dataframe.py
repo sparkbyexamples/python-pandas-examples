@@ -1,9 +1,11 @@
-# -*- coding: utf-8 -*-
-"""
-Spyder Editor
 
-This is a temporary script file.
 """
+@author: sparkbyexamples.com
+For complete example refer to 
+https://sparkbyexamples.com/pandas/pandas-create-dataframe
+
+"""
+
 #create pandas dataframe with example
 # Create pandas DataFrame from List
 import pandas as pd
@@ -43,8 +45,8 @@ technologies = [{'Courses':'Spark', 'Fee': 20000, 'Duration':'30days'},
         {'Courses':'Pandas', 'Fee': 25000, 'Duration': '40days'}]
 
 df = pd.DataFrame(technologies)
-print(df)
-
+print(df
+      
 # Create pandas Series
 courses = pd.Series(["Spark","Pandas"])
 fees = pd.Series([20000,25000])
