@@ -1,9 +1,10 @@
-# -*- coding: utf-8 -*-
-"""
-Spyder Editor
+"""""
+@author: sparkbyexamples.com
+For complete example refer to 
+https://sparkbyexamples.com/pandas/pandas-create-dataframe-with-examples
 
-This is a temporary script file.
 """
+
 #create pandas dataframe with example
 # Create pandas DataFrame from List
 import pandas as pd
