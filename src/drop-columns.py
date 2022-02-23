@@ -1,6 +1,7 @@
 """
 @author: sparkbyexamples.com
-
+For complete examples refer to
+https://sparkbyexamples.com/pandas-drop-column-from-dataframe
 
 """
 #Pandas Drop Column(s) from DataFrame
