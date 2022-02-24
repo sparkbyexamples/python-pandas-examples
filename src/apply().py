@@ -1,7 +1,8 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
+
 @author: sparkbyexamples.com
+For complete examples refer to
+https://sparkbyexamples.com/pandas-apply()-function-usage-with-example
 
 """
 
