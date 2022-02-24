@@ -1,7 +1,7 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
 @author: sparkbyexamples.com
+For complete examples refer to
+https://sparkbyexamples.com/pandas-cast-column-type-usage-with-example
 
 """
 
