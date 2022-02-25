@@ -1,7 +1,7 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
 @author: sparkbyexamples.com
+For complete examples refer 
+https://sparkbyexamples.com/pandas-drop-row-on-column-value-usage-with-example
 
 """
 # Create pandas DataFrame
