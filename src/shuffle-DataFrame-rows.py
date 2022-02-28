@@ -1,5 +1,7 @@
 """
 @author: sparkbyexamples.com
+For complete examples refer to
+https://sparkbyexamples.com/pandas-shuffle-DataFrame-rows-examples
 
 """
 
