@@ -1,5 +1,7 @@
 """
 @author: sparkbyexamples.com
+For complete examples refer to
+https://sparkbyexamples.com/pandas-join()-method-explained-with-examples
 
 """
 
