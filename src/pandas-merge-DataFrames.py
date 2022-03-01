@@ -1,6 +1,7 @@
 """
 @author: sparkbyexamples.com
-
+For complete examples refer to
+https://sparkbyexamples.com/pandas-merge-dataframes-explained-with-examples
 """
 #Pandas Merge DataFrames Explained Examples
 #create DataFrames
